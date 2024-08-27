@@ -10,12 +10,13 @@ Implemented xGBoosted Trees for accurate sales prediction, helping businesses fo
 Utilized K-Means Clustering for effective customer segmentation, enabling targeted marketing strategies and personalized customer interactions.
 
 Maximized profits through advanced sales prediction models and dynamic pricing strategies, ensuring competitive pricing and optimal revenue generation.
+
 **See How My Project Works**
 
 https://github.com/user-attachments/assets/0bb4c40b-240f-4851-84d8-8cbfdb58ac01
 
 ## Project Structure
-Project Structure
+
 
 ClientSide/: Contains the React frontend code.
 
@@ -57,6 +58,10 @@ Run the Flask application:
 
 
 python app.py
+
+python app2.py
+
+python app3.py
 
 Access the application: Open your web browser and go to http://localhost:5000 to start using the application.
 
