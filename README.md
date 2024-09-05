@@ -44,7 +44,7 @@ mall_customer.pkl, salePrediction.pkl: Serialized machine learning model files f
 Clone the repository:
 
 
-git clone https://github.com/maheshpanda1806/Pando-Heaven-For-Weebs.git
+git clone [https://github.com/maheshpanda1806/ShopSense-ML.git](https://github.com/maheshpanda1806/ShopSense-ML/)
 Navigate to the project directory:
 
 cd ShopSense-ML
